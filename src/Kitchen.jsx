@@ -3,7 +3,7 @@ import Oven from "./Oven";
 
 
 
-const Kitchen = (props) => {
+const Kitchen = () => {
   return ( 
     <div>
       <h1>Kitchen</h1>
